@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the unofficial user guide based on version 0.4a of tile editor
+This is the unofficial user's guide based on version 0.4a of tile editor
 
 To use the mouse in  the tile editor add -capture to the command line of the emulator
 or press the keys ' ctrl+m ' to enter the tile editor
@@ -51,4 +51,10 @@ exit the application
 ![about](images/about.png)
 
 app name and version  number
+authors name
+github site
 
+## Acknowledgements
+
+* Matt Heffernan Programmer fpr tile editor
+* Paul Cavanagh documenter for the user guide
