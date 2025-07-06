@@ -4,9 +4,10 @@
 
 This is the unofficial user's guide based on version 0.4a of tile editor
 
+### using mouse
 To use the mouse in  the tile editor add -capture to the command line of the emulator
 or press the keys ' ctrl+m ' to enter the tile editor
-
+press the keys ' ctrl+m ' to release the mouse from the tile editor.
 
 
 ![tile editor](images/tileeditor.png)
@@ -53,6 +54,16 @@ exit the application
 app name and version  number
 authors name
 github site
+
+## prev and next
+
+![alt text](images/prevnextmenu.png)
+allows navigation
+
+## tile dimensions
+
+![tile dimensions](images/tileeditoradjustdimensions.png)
+allows the change of tile dimensions 16 x 16 etc.
 
 ## Acknowledgements
 
