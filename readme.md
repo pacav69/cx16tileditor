@@ -2,7 +2,12 @@
 
 ## Introduction
 
-This is the unofficial user guide based on version 0.4 of tile editor
+This is the unofficial user guide based on version 0.4a of tile editor
+
+To use the mouse in  the tile editor add -capture to the command line of the emulator
+or press the keys ' ctrl+m ' to enter the tile editor
+
+
 
 ![tile editor](images/tileeditor.png)
 
