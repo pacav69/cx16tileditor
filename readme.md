@@ -1,5 +1,11 @@
 # Commander X16 Tile editor
 
+## Latest version
+
+[visit here](https://github.com/SlithyMatt/x16-tile-editor/releases/tag/v0.1b)
+
+
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 ## Introduction
